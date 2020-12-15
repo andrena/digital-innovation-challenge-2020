@@ -5,7 +5,7 @@
 The rules for the game "Mäxchen" (aka Mia) are explained in Detail [here](https://en.wikipedia.org/wiki/Mia_(game)).
 
 ## Technical Infrastructure
-The game runs on a remote server (IP: `35.159.50.117`, port: `9000`). 
+The game runs on a remote server (IP: `18.198.123.140`, port: `9000`). 
 The players communicate with the server using a simple text-based protocol over UDP (using UTF-8 encoded strings).
 You find a more detailed description of the messages sent between client and server [here](./protocol.md). 
 
